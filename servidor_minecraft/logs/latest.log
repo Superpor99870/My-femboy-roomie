@@ -1,0 +1,45 @@
+[00:00:12] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:05:29] [Server thread/INFO]: [Akukis: Gave 64 [Wind Charge] to Akukis]
+[00:05:41] [Server thread/INFO]: Akukis was doomed to fall by siganconsumiendo
+[00:06:39] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[00:07:58] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[00:09:35] [Server thread/INFO]: siganconsumiendo was slain by Akukis
+[00:11:30] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:11:43] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:11:45] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:11:47] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:15:28] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:15:39] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:15:47] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:15:58] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:16:03] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:17:22] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:17:25] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:17:31] [Server thread/INFO]: [Akukis: Summoned new Warden]
+[00:17:46] [Server thread/INFO]: Akukis was killed
+[00:17:46] [Server thread/INFO]: siganconsumiendo was killed
+[00:17:46] [Server thread/INFO]: [Akukis: Killed 154 entities]
+[00:18:05] [Server thread/INFO]: [Akukis: Set own game mode to Creative Mode]
+[00:18:07] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:18:34] [Server thread/INFO]: [Akukis: Gave 64 [Obsidian] to Akukis]
+[00:20:34] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:20:52] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:20:54] [Server thread/INFO]: [Akukis: Gave 64 [Obsidian] to Akukis]
+[00:20:56] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:21:08] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:21:10] [Server thread/INFO]: siganconsumiendo has made the advancement [A Major Trial Of Strengh]
+[00:21:15] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:21:16] [Server thread/INFO]: Akukis has made the advancement [A Major Trial Of Strengh]
+[00:22:35] [Server thread/INFO]: Akukis has made the advancement [Cobweb Entanglement]
+[00:23:24] [Server thread/INFO]: [Akukis: Set own game mode to Spectator Mode]
+[00:23:45] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:23:58] [Server thread/INFO]: [Akukis: Set own game mode to Survival Mode]
+[00:24:16] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:24:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-695, y=66, z=-1115} class_2338{x=-694, y=66, z=-1115}
+[00:24:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-695, y=65, z=-1115} class_2338{x=-694, y=66, z=-1115}
+[00:24:30] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-696, y=65, z=-1115} class_2338{x=-694, y=66, z=-1115}
+[00:25:09] [Server thread/INFO]: [Akukis: Teleported Akukis to siganconsumiendo]
+[00:25:10] [Worker-Main-2/ERROR]: Block-attached entity at invalid position: class_2338{x=202, y=47, z=211}
+[00:26:00] [Server thread/INFO]: siganconsumiendo was killed
+[00:26:00] [Server thread/INFO]: [Akukis: Killed siganconsumiendo]
+[00:26:17] [Server thread/INFO]: [Akukis: Teleported siganconsumiendo to 100000.500000, 0.000000, 1000000.500000]
